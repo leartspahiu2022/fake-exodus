@@ -1,13 +1,12 @@
 # Exodus Balance changer
 Welcome to the Exodus Balance Changer Tool, a multi-tool for exodus written in python
-![image](https://github.com/malik9802/fake-exodus/assets/166440628/7cc8c552-eaf1-41b1-825e-e4d58d32f005)
+![image](https://github.com/malik9802/fake-exodus/assets/166440628/0ceaf464-86cd-42cc-ae76-9badd15ba77e)
+
 
 
 ## Showcases
 
-<img width="966" alt="Screenshot-2023-06-12-at-12 57 23" src="https://github.com/malik9802/fake-exodus/assets/166440628/0ad20074-44ab-4276-b9d0-1976e99f5c4c">
-
-![image](https://github.com/malik9802/fake-exodus/assets/166440628/1e81b4c8-fb08-47f9-981e-004bc46218ca)
+![image](https://github.com/malik9802/fake-exodus/assets/166440628/2d1391a5-60f9-43e4-a167-b0fa110799f6)
 
 
 ## Features
@@ -22,7 +21,8 @@ Welcome to the Exodus Balance Changer Tool, a multi-tool for exodus written in p
 ### Option <3>
 - **Balances**: This allows you to change the balance of any cryptocurrency. Image is below:
   
-![image](https://github.com/malik9802/fake-exodus/assets/166440628/fe8c4943-f4ff-474a-9e9e-0d2b5f0db2ef)
+![image](https://github.com/malik9802/fake-exodus/assets/166440628/07492dc9-dd25-4468-833d-16e6672ce189)
+
 
 ## Installation
 
