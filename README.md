@@ -1,4 +1,4 @@
-# Exodus Balance changer
+# Exodus Balance changer (Open source / python)
 Welcome to the Exodus Balance Changer Tool, a multi-tool for exodus written in python
 ![image](https://github.com/malik9802/fake-exodus/assets/166440628/0ceaf464-86cd-42cc-ae76-9badd15ba77e)
 
